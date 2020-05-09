@@ -30,4 +30,10 @@ npm start
 npm run start:dev
 ```
 
+### Lint
+
+```bash
+npm run lint
+```
+
 > I will update the `start` using docker later.
